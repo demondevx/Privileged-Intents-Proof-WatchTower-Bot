@@ -83,7 +83,7 @@ Proofs to be provided:
 -   [🎥 Video 5 Anti-Nuke detecting role creation and permission update and punishing executor if the user isnt admin](https://youtube.com/shorts/oKq4b0Hgxvk)
 -   [📷 Screenshot 4 - Anti-Nuke detecting role creation and permission update and punishing executor if the user isnt admin/whitelisted](https://i.postimg.cc/fyxZqqSD/newrole.png)
 - [🎥 Video 7 Anti-Nuke detecting bot add and punishing executor if the user isnt admin](https://youtube.com/shorts/rQQBQNDQt6o)
-- [📷 Screenshot 6 - Whitelisted user bypassing punishment]([https://i.postimg.cc/x8dyth46/massmention.png](https://i.postimg.cc/vBCftTfX/Whitelisted-user-bypassing-punishment.png))
+- [📷 Screenshot 6 - Whitelisted user bypassing punishment]([https://i.postimg.cc/x8dyth46/massmention.png)
 - [🎥 Video 8 -  Verification System Admin](https://youtube.com/shorts/kyYSA46rmog)
 -   [🎥 Video 9 - Verification System Member](https://youtube.com/shorts/4Jsz4pfyhII)
 - [🎥 Video 10 -  Moderation kick mute](https://youtube.com/shorts/UFpKBW0VZ3E)
